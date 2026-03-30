@@ -8,11 +8,11 @@
   "dependencies": {
     "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
-    "express": "~4.21.1",
+    "express": "~4.22.1",
     "morgan": "~1.9.1",
     "pg": "^8.5.1"
   },
   "devDependencies": {
-    "@architect/sandbox": "^6.0.5"
+    "@architect/sandbox": "^9.0.0"
   }
 }
